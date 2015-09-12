@@ -13,8 +13,4 @@ public class GameHelper {
 		}
 		return inputLine;
 	}
-	
-	public void placeDotCom(){
-		
-	}	
 }
