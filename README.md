@@ -2,4 +2,4 @@
 
 Sinking Ship game
 
-Practise repositirie for tutorial in Head First Java
+Practise repositiry for tutorial in Head First Java
